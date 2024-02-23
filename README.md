@@ -311,6 +311,12 @@ connect to this database and an async search will begin.
 ## Cloud AutoML
 Want to try higher performance AutoML without writing code? Try:
 https://cloud.google.com/automl-tables
+<<<<<<< HEAD
 commit 4
 commit 5
 commit 6
+=======
+commit 1
+commit 2
+commit 3
+>>>>>>> branch1
